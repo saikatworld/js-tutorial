@@ -30,6 +30,6 @@ const addTow =(num1, num2) => ({username:"saikat"})
 
 console.log(addTow(3,4))
 
-const myArray =[2,5,3,6,7]
+// const myArray =[2,5,3,6,7]
 
-myArray.forEach()
+// myArray.forEach()
